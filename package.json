@@ -1,0 +1,25 @@
+{
+    "name": "@shoprag/rag-universe",
+    "version": "1.0.0",
+    "description": "ShopRAG RAG plugin for managing datasets in the Universe system",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "type": "module",
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [
+        "shoprag",
+        "rag",
+        "plugin"
+    ],
+    "author": "Peer-to-peer Privacy Systems Research, LLC",
+    "license": "MIT",
+    "dependencies": {
+        "@shoprag/core": "^1.0.9"
+    },
+    "devDependencies": {
+        "@types/node": "^22.13.11",
+        "typescript": "^5.8.2"
+    }
+}
