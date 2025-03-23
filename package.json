@@ -1,6 +1,6 @@
 {
     "name": "@shoprag/rag-universe",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "ShopRAG RAG plugin for managing datasets in the Universe system",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
